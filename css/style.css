@@ -1,0 +1,35 @@
+body {
+    background-color: #FFFFFF; /* Color de fondo blanco */
+    color: #333333; /* Color de texto negro */
+    font-family: Arial, sans-serif; /* Fuente predeterminada */
+  }
+  
+  header {
+    background-color: #FF0000; /* Rojo como color de fondo del encabezado */
+    color: #FFFFFF; /* Texto blanco en el encabezado */
+    padding: 20px; /* Agregar un poco de espacio entre el contenido y los bordes */
+  }
+  
+  nav ul {
+    list-style-type: none; /* Quitar la viñeta de la lista */
+    margin: 0; /* Eliminar el margen predeterminado */
+    padding: 0; /* Eliminar el espacio dentro de la lista */
+  }
+  
+  nav li {
+    display: inline-block; /* Mostrar los elementos de la lista en línea */
+    margin-right: 10px; /* Agregar un poco de espacio entre los elementos */
+  }
+  
+  nav li a {
+    color: #FFFFFF; /* Texto blanco para los enlaces */
+    text-decoration: none; /* Eliminar el subrayado predeterminado */
+    font-weight: bold; /* Hacer que el texto del enlace sea negrita */
+  }
+  
+  main {
+    margin: 20px; /* Agregar un poco de espacio entre el contenido y los bordes */
+  }
+  
+  /*h1, h2, h3 {
+    font-weight...*/
