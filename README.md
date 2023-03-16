@@ -1,2 +1,2 @@
 # Prueba_Equipo
-Es una prueba de un repositorio del equipo ¡Java Dabba Doo!
+Práctica sobre manejo de repositorios remotos con Git y Github del equipo ¡Java Dabba Doo! para el bootcamp de Generation.
